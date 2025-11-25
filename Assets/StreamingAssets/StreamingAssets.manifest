@@ -1,0 +1,14 @@
+ManifestFileVersion: 0
+CRC: 3005544181
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/prefabs/image.prefab.ab
+      Dependencies: {}
+    Info_1:
+      Name: ui/prefabs/testui.prefab.ab
+      Dependencies:
+        Dependency_0: ui/res/login/00.jpg.ab
+    Info_2:
+      Name: ui/res/login/00.jpg.ab
+      Dependencies: {}

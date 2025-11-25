@@ -1,0 +1,3 @@
+Assets/BuildResources/UI/Prefabs/Image.prefab|ui/prefabs/image.prefab.ab
+Assets/BuildResources/UI/Prefabs/TestUI.prefab|ui/prefabs/testui.prefab.ab|Assets/BuildResources/UI/Res/Login/00.jpg
+Assets/BuildResources/UI/Res/Login/00.jpg|ui/res/login/00.jpg.ab
